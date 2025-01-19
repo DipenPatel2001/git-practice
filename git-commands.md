@@ -23,3 +23,4 @@ The opposite of git add. It will just remove files from the stagin area
 
 # git checkout -- $filename
 This will discard all the changes made to a file
+
