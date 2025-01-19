@@ -17,3 +17,9 @@ git commit -m "message" --amend    (so this will put your changes in the current
 
 # git log
 Git log will show the version history
+
+# git reset
+The opposite of git add. It will just remove files from the stagin area
+
+# git checkout -- $filename
+This will discard all the changes made to a file
