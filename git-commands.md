@@ -24,3 +24,14 @@ The opposite of git add. It will just remove files from the stagin area
 # git checkout -- $filename
 This will discard all the changes made to a file
 
+# git checkout <hash>
+This will checkout different version of the code
+git checkout master  (this can be used to checkout to the latest code of branches)
+
+# git checkout <hash> . 
+This will restore the files to the version you have in the hash. This will add these changes in the staging area but will not commit for you
+
+# git log --all --graph
+Will show a graph 
+
+
