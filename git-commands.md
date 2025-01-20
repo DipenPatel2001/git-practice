@@ -34,4 +34,20 @@ This will restore the files to the version you have in the hash. This will add t
 # git log --all --graph
 Will show a graph 
 
+# git remote add origin <link>
+Add the remote repo origin to the project
+
+# git remote -v
+Details of the remote connect
+
+# git remote remove origin
+remove the remote repo
+
+# upload to git is a git push
+
+# download from git is a git pull
+
+# git push origin master
+Upload your code to the online repo
+
 
