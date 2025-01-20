@@ -43,11 +43,18 @@ Details of the remote connect
 # git remote remove origin
 remove the remote repo
 
-# upload to git is a git push
-
-# download from git is a git pull
-
 # git push origin master
 Upload your code to the online repo
+upload to git is a git push
 
+# git clone <link> <name of folder you want to put this in>
+Clones the files of a local repo to a directory. After this command you can just 
+start doing git pull origin master  ,to get the latest code 
+
+# git fetch 
+Gets latest up to date data for the repo
+
+# git pull origin master
+pulls the latest code from the master into your WA. 
+download from git is a git pull
 
