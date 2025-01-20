@@ -58,3 +58,5 @@ Gets latest up to date data for the repo
 pulls the latest code from the master into your WA. 
 download from git is a git pull
 
+# git branch <branchname>
+Creates a branch at your current version
