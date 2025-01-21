@@ -60,3 +60,6 @@ download from git is a git pull
 
 # git branch <branchname>
 Creates a branch at your current version
+
+# git push origin <branchname>
+Same as git push origin master but this is for your branch
