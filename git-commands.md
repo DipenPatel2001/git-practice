@@ -63,3 +63,6 @@ Creates a branch at your current version
 
 # git push origin <branchname>
 Same as git push origin master but this is for your branch
+
+# git merge <branchname> -m "message"
+This will merge the commits in <branchname> into your currently checkouted branch
